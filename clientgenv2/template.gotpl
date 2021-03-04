@@ -11,8 +11,8 @@
 
 {{ reserveImport "golang.org/x/xerrors" }}
 
-{{ reserveImport "github.com/Yamashou/gqlgenc/graphqljson" }}
-{{ reserveImport "github.com/Yamashou/gqlgenc/clientv2" }}
+{{ reserveImport "github.com/animeshon/gqlgenc/graphqljson" }}
+{{ reserveImport "github.com/animeshon/gqlgenc/clientv2" }}
 
 type Client struct {
 Client *clientv2.Client

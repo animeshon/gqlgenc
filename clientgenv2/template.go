@@ -1,8 +1,8 @@
 package clientgenv2
 
 import (
-	"github.com/99designs/gqlgen/codegen/config"
-	"github.com/99designs/gqlgen/codegen/templates"
+	"github.com/animeshon/gqlgen/codegen/config"
+	"github.com/animeshon/gqlgen/codegen/templates"
 	"golang.org/x/xerrors"
 )
 

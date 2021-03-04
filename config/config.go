@@ -9,9 +9,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/99designs/gqlgen/codegen/config"
-	"github.com/Yamashou/gqlgenc/client"
-	"github.com/Yamashou/gqlgenc/introspection"
+	"github.com/animeshon/gqlgen/codegen/config"
+	"github.com/animeshon/gqlgenc/client"
+	"github.com/animeshon/gqlgenc/introspection"
 	"github.com/pkg/errors"
 	"github.com/vektah/gqlparser/v2"
 	"github.com/vektah/gqlparser/v2/ast"

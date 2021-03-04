@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Yamashou/gqlgenc/graphqljson"
+	"github.com/animeshon/gqlgenc/graphqljson"
 	"github.com/google/go-cmp/cmp"
 )
 

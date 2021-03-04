@@ -29,7 +29,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/99designs/gqlgen/codegen/config"
+	"github.com/animeshon/gqlgen/codegen/config"
 	"github.com/vektah/gqlparser/v2/ast"
 	"golang.org/x/xerrors"
 )
